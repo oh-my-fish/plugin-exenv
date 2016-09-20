@@ -20,7 +20,7 @@ $ omf install exenv
 
 ## Configuration
 
-If you have a custom ndenv root, you can add the following to your `~/.config/fish/init.fish` file before sourcing Oh My Fish.
+If you have a custom exenv root, you can add the following to your `~/.config/fish/init.fish` file before sourcing Oh My Fish.
 
 ```
 set -gx EXENV_ROOT #path
